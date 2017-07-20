@@ -1,1 +1,1 @@
-springdemo，直接运行test--》main
+锘縮pringrmi鐨勪竴涓ず渚嬶紝鍙互鐩存帴杩愯test
